@@ -1,0 +1,16 @@
+C:\Users\SeaOcean\Desktop\kiemtra\mffms-api\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\SeaOcean\Desktop\kiemtra\mffms-api\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\SeaOcean\Desktop\kiemtra\mffms-api\bin\Debug\netcoreapp2.2\MFFMS.API.deps.json
+C:\Users\SeaOcean\Desktop\kiemtra\mffms-api\bin\Debug\netcoreapp2.2\MFFMS.API.runtimeconfig.json
+C:\Users\SeaOcean\Desktop\kiemtra\mffms-api\bin\Debug\netcoreapp2.2\MFFMS.API.runtimeconfig.dev.json
+C:\Users\SeaOcean\Desktop\kiemtra\mffms-api\bin\Debug\netcoreapp2.2\MFFMS.API.dll
+C:\Users\SeaOcean\Desktop\kiemtra\mffms-api\bin\Debug\netcoreapp2.2\MFFMS.API.pdb
+C:\Users\SeaOcean\Desktop\kiemtra\mffms-api\obj\Debug\netcoreapp2.2\MFFMS.API.AssemblyInfoInputs.cache
+C:\Users\SeaOcean\Desktop\kiemtra\mffms-api\obj\Debug\netcoreapp2.2\MFFMS.API.AssemblyInfo.cs
+C:\Users\SeaOcean\Desktop\kiemtra\mffms-api\obj\Debug\netcoreapp2.2\MFFMS.API.csproj.CoreCompileInputs.cache
+C:\Users\SeaOcean\Desktop\kiemtra\mffms-api\obj\Debug\netcoreapp2.2\MFFMS.API.RazorAssemblyInfo.cache
+C:\Users\SeaOcean\Desktop\kiemtra\mffms-api\obj\Debug\netcoreapp2.2\MFFMS.API.RazorAssemblyInfo.cs
+C:\Users\SeaOcean\Desktop\kiemtra\mffms-api\obj\Debug\netcoreapp2.2\MFFMS.API.RazorTargetAssemblyInfo.cache
+C:\Users\SeaOcean\Desktop\kiemtra\mffms-api\obj\Debug\netcoreapp2.2\MFFMS.API.dll
+C:\Users\SeaOcean\Desktop\kiemtra\mffms-api\obj\Debug\netcoreapp2.2\MFFMS.API.pdb
+C:\Users\SeaOcean\Desktop\kiemtra\mffms-api\obj\Debug\netcoreapp2.2\MFFMS.API.genruntimeconfig.cache

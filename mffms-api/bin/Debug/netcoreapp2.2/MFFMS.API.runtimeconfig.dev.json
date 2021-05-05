@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\SeaOcean\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\SeaOcean\\.nuget\\packages"
+    ]
+  }
+}
